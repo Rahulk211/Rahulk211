@@ -17,8 +17,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk211&layout=compact&theme=radical)  
 
 ## 🚀 Projects  
-- **Network Performance Dashboard** - Real-time monitoring, predictive analytics & alerts  
-- **Machine Learning-based Anomaly Detection** for network performance  
+- **Heart disease Prediction model** - Real-time monitoring, predictive analytics & alerts  
+- **Web Scrapper** 
 - **More exciting projects coming soon...**  
 
 ## 📫 Connect with Me  
